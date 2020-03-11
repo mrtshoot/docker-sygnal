@@ -3,10 +3,10 @@
     "id": "$3957tyerfgewrf384",
     "room_id": "!slw48wfj34rtnrf:example.com",
     "type": "m.room.message",
-    "sender": "@ghorbani-h:matrix.org",
+    "sender": "@mrtshoot:matrix.org",
     "sender_display_name": "Hossein Ghorbani",
     "room_name": "Mission Control",
-    "room_alias": "#ghorbani-h:matrix.mobotel.me",
+    "room_alias": "#mrtshoot:matrix.org",
     "prio": "high",
     "content": {
       "msgtype": "m.text",
