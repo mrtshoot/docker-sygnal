@@ -1,0 +1,31 @@
+{
+  "notification": {
+    "id": "$3957tyerfgewrf384",
+    "room_id": "!slw48wfj34rtnrf:example.com",
+    "type": "m.room.message",
+    "sender": "@ghorbani-h:matrix.org",
+    "sender_display_name": "Hossein Ghorbani",
+    "room_name": "Mission Control",
+    "room_alias": "#ghorbani-h:matrix.mobotel.me",
+    "prio": "high",
+    "content": {
+      "msgtype": "m.text",
+      "body": "I'm floating in a most peculiar way."
+    },
+    "counts": {
+      "unread": 2,
+      "missed_calls": 1
+    },
+    "devices": [
+      {
+        "app_id": "",
+        "pushkey": "V2h5IG9uIGVhcnRoIGRpZCB5b3UgZGVjb2RlIHRoaXM/",
+        "pushkey_ts": 12345678,
+        "data": {},
+        "tweaks": {
+          "sound": "bing"
+        }
+      }
+    ]
+  }
+}
