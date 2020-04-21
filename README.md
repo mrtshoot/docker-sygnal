@@ -8,9 +8,9 @@ git clone https://github.com/mrtshoot/docker-sygnal.git
 ```
 
 ## Step 2
-run this command to go on docker-sygnal root directory and then download official matrix sygnal push gateway
+run this command to go on docker-sygnal root directory
 ```
-cd docker-sygnal;git submodule add https://github.com/matrix-org/sygnal.git
+cd docker-sygnal
 ```
 
 ## Step 3
@@ -20,7 +20,7 @@ cd sygnal;cp sygnal.yaml.sample sygnal.yaml
 ```
 
 ## Step 4
-Change your own Sygnal Configuration for more detail go to https://github.com/matrix-org/sygnal
+Change your own Sygnal Configuration.your fcm package name and here should be matched.for more detail go to https://github.com/matrix-org/sygnal
 
 ## Step 5
 go to root directory and run this command to create your own sygnaldocker image
